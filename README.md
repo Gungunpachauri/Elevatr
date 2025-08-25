@@ -1,7 +1,7 @@
-🤖 Introduction
+🤖 Introduction <br>
 A Next.js 15 platform where entrepreneurs can submit their startup ideas for virtual pitch competitions, browse other pitches, and gain exposure through a clean minimalistic design for a smooth user experience.
 
-⚙️ Tech Stack
+⚙️ Tech Stack <br>
 - React 19
 - Next.js 15
 - Sanity
@@ -9,7 +9,7 @@ A Next.js 15 platform where entrepreneurs can submit their startup ideas for vir
 - ShadCN
 - TypeScript
 
-🔋 Features
+🔋 Features <br>
 👉 Live Content API: Displays the latest startup ideas dynamically on the homepage using Sanity's Content API.
 
 👉 GitHub Authentication: Allows users to log in easily using their GitHub account.
